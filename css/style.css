@@ -1,0 +1,43 @@
+html {
+	background-color: #767676;
+}
+
+#container {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	margin: auto;
+}
+
+h1 {
+	font-family: "arial", sans-serif;
+	color: #E8E2E1;
+	font-size: 1.3em;
+	letter-spacing: .4;
+	text-align: center;
+	margin-top: 5%;
+}
+
+h2 {
+	font-family: "arial", sans-serif;
+	color: #E8E2E1;
+	font-size: 1em;
+	letter-spacing: .4;
+	margin-top: 10px;
+	text-align: center;
+	font-weight: normal;
+}
+
+#nextButton {
+	display: table;
+	margin: 10px auto;
+}
+
+img {
+	display: block;
+	width: 400px;
+	padding: 20px;
+	border-bottom: 2px solid #F7E945;
+	margin: 0 auto;
+}
+
